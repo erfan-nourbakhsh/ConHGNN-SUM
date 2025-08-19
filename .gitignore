@@ -1,0 +1,8 @@
+/datasets
+/embeddings
+/cache
+/results/log
+/results/models
+/results/save
+venv
+/temp
